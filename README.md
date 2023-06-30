@@ -1,4 +1,4 @@
-# Hotel Database
+# Projet de base de données du système de gestion hôtelière
 
 ## Contributeurs
 - [Fabiano](https://github.com/fabiano50)
@@ -7,6 +7,6 @@
 - [Mampionona](https://github.com/Mampiononatc07)
 - [Jonathan](https://github.com/EspereJonathan)
 
-## Modelisation merise du base de données
+## Modélisation de la base de données Merise
 
-![Hotel Models](./image/mcd.png "Hotel DB Models ")
+![Hotel Models](./image/hotel2.0.PNG "Hotel DB Models ")
